@@ -45,9 +45,9 @@ $ yarn install
 Start the Electron app in development mode:
 
 ```bash
-$ npm run dev
+$ npm start
 # or
-$ yarn dev
+$ yarn start
 ```
 
 The Electron window will open automatically.
