@@ -95,7 +95,6 @@ The packaged app will be available in the `dist` folder.
 - `build`: Create a production build
 - `build:mac`: Package the app for macOS
 - `build:win`: Package the app for Windows
-- `lint`: Check code quality
 
 ## 🐛 Troubleshooting
 
