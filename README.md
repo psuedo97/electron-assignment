@@ -91,8 +91,8 @@ The packaged app will be available in the `dist` folder.
 
 ## 📖 Scripts
 
-- `dev`: Run the app in development mode
-- `build`: Create a production build
+- `start`: Run the app in development mode
+- `package`: Create a production build
 - `build:mac`: Package the app for macOS
 - `build:win`: Package the app for Windows
 
